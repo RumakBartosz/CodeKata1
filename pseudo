@@ -1,0 +1,18 @@
+Money
+- dollar
+- cent
++ Transaction
+
+Item
+- price
+- bought
+- onPromotion
+
+
+Promotion
+?
+
+
+
+list boughtItems
+
