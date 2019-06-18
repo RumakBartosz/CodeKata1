@@ -9,9 +9,7 @@ Money
 
 Item
 - price
-- bought
 - onPromotion
-+ buy(Wallet)
 
 Promotion
 ?
