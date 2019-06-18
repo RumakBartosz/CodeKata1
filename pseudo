@@ -1,10 +1,10 @@
-static Wallet
+Wallet
 - content
+
 
 Money
 - dollar
 - cent
-+ Transaction()
 
 Item
 - price
