@@ -1,13 +1,16 @@
+static Wallet
+- content
+
 Money
 - dollar
 - cent
-+ Transaction
++ Transaction()
 
 Item
 - price
 - bought
 - onPromotion
-
++ buy(Wallet)
 
 Promotion
 ?
