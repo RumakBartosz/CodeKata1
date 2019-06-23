@@ -1,13 +1,15 @@
+Wallet
+- content
++ Transaction()
+
+
 Money
 - dollar
 - cent
-+ Transaction
 
 Item
 - price
-- bought
 - onPromotion
-
 
 Promotion
 ?
